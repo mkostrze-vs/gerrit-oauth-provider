@@ -9,3 +9,6 @@
 /eclipse-out
 /.idea
 *.swp
+/bin/
+/target/
+/.apt_generated_tests/
